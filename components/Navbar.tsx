@@ -12,9 +12,8 @@ const Navbar = () => {
                 <Image 
                     src="/logo.svg"
                     alt="Velocity Logo"
-                    width={118}
-                    height={18}
-                    className="object-contain"
+                    width={190}
+                    height={7}                    
                 />
             </Link>
 
